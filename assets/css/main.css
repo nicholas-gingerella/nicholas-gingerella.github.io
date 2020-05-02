@@ -230,14 +230,14 @@ hr.custom_hr {
     height: 55px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     .card_icon {
-      text-align: center;
+        text-align: center;
     }
     .card_heading {
-      text-align: center;
+        text-align: center;
     }
-  }
+}
 
 .blue_accent {
     color: #2d74b3;
