@@ -232,12 +232,23 @@ hr.custom_hr {
 
 @media (max-width: 767px) {
     .card_icon {
-        text-align: center;
+      text-align: center;
     }
     .card_heading {
-        text-align: center;
+      text-align: center;
     }
-}
+
+    #introduction_section #greeting_container h1 {
+        font-size: 60px;
+    }
+    #introduction_section #greeting_container h2 {
+        font-size: 30px;
+    }
+    
+    .section_heading {
+        font-size: 3em;
+    }
+  }
 
 .blue_accent {
     color: #2d74b3;
